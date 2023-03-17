@@ -44,8 +44,6 @@ fetch("data.json")
     if (window.screen.width > 992) {
       showPost();
       showPost();
-      showPost();
-      showPost();
     } else if (window.screen.width < 768) {
       showPost();
     } else {
@@ -68,8 +66,6 @@ fetch("data.json")
         }
 
         if (window.screen.width > 992) {
-          showPost();
-          showPost();
           showPost();
           showPost();
         } else if (window.screen.width < 768) {
